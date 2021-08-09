@@ -1,0 +1,5 @@
+---
+title: Goodbye
+---
+
+# {title}
